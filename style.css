@@ -28,3 +28,52 @@
     background-color: #DAA520;
 }
 
+/* Fonts Label Section */
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+    
+}
+.font-panel {
+    width: 45%;
+    display: inline-block;
+    background-color: #006400;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+
+.parkinsans {
+  font-family: "Parkinsans", sans-serif;
+}
+
+.edu-au-vic-wa-nt-arrows {
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    color: aliceblue;
+}
+
+.sevillana-regular {
+    font-family: "Sevillana", cursive;
+    
+  }
+  
+
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+
+}
+
+.italic {
+    font-style: italic;
+
+}
