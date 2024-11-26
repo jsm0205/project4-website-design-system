@@ -1,3 +1,7 @@
+body {
+    font-family: "Parkinsans", sans-serif;
+}
+
 .color-panel {
     display: inline-block;
     width: 32%;
